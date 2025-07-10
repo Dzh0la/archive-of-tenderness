@@ -2,7 +2,6 @@
 
 # 📦 Archive for Fima
 
-Not a book. Not a goodbye.  
 Just a breath that wrote itself over four strange, silent years.
 
 ## 🧭 Folders
