@@ -1,6 +1,7 @@
 ---
-title: In the restaurant, New York
+title: In the restaurant, New York, Shuka
 tags: [memory, trust, withheld-pride]
+address: 38 MacDougal St, New York, NY 10012, United States
 ---
 
 We sat across the table.  
