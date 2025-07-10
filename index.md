@@ -1,9 +1,9 @@
 # 🌬️ Archive of Tenderness
 
-100 quiet letters you’ll never read.  
+100 quiet letters.
 A memory turned into structure.  
 A silence shaped into rhythm.  
-This is not a goodbye — it’s what stayed.
+It’s what stayed.
 
 ---
 
