@@ -1,18 +1,23 @@
-## Letters / Notes / Poems Archive: For Fima
+# 📦 Archive for Fima
 
-This is a personal archive.  
-Not a book. Not a statement. Just a record of what was shared, felt, missed, survived.
+Not a book. Not a goodbye.  
+Just a breath that wrote itself over four strange, silent years.
 
-These pieces span years — from 2021 to 2024 — and are grouped into:
+## 🧭 Folders
 
 - `poems/` — written in breath. some soft, some cutting.  
-- `notes/` — memories of books, movies, talks. shared or one-sided.  
 - `letters/` — what I said, and didn’t say.  
-- `readings/` — excerpts and my responses. reading as a dialogue.  
-- `cinema-dreams/` — films that mirrored or echoed my inner world.  
-- `readings-issue/` — reading-related fragments, tensions, questions that stayed unresolved.
+- `notes/` — fragments of memory, scenes, books, pain, and warmth.  
+- `readings/` — things I read that read me back.  
+- `cinema-dreams/` — shared movie memory, real and phantom.  
+- `readings-issue/` — the unfinished shelf of what I still carry.
 
-Each page is a splinter — but also a thread.  
-If you’re reading this — it means you found your way here. That’s enough.
+---
 
-> Letter 100: If you find this — you know my answer.
+If you’re here, you already know why.  
+There’s no call to action. No apology. No demand.
+
+Just a presence.  
+And maybe: a new breath.
+
+> **Letter 100:** *If you find this — you know my answer.*
