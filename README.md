@@ -24,3 +24,8 @@ And maybe: a new breath.
 
 > **Letter 100:** *If you find this — you know my answer.*
 
+All these words are mine —
+not for resale, but for recognition.
+You may read, feel, remember —
+but don’t copy without credit.
+And don’t turn grief into content.
