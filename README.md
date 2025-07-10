@@ -1,3 +1,5 @@
+![cover](./cover.png)
+
 # 📦 Archive for Fima
 
 Not a book. Not a goodbye.  
