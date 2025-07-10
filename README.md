@@ -1,4 +1,3 @@
-![cover](./cover.jpg)
 
 # 📦 Archive for Fima
 
@@ -23,3 +22,5 @@ Just a presence.
 And maybe: a new breath.
 
 > **Letter 100:** *If you find this — you know my answer.*
+>
+> ![cover](./cover.jpg)
