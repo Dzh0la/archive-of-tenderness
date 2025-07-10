@@ -1,11 +1,21 @@
-# Жизнь гейши — Kenji Mizoguchi, 1953
+# Mizoguchi — Geisha
 
-Ты лайкнул этот фильм. Я — посмотрела.
+**Watched at night. Quiet, restrained, but piercing.  
+A woman’s life folding in on itself — silently.  
+And yet the form holds.**
 
-Тихий, тягучий, женский.
-Про невозможное и происходящее одновременно.
+Fima had once liked this film.  
+And I see why.  
+It’s all about interiority. About endurance without spectacle.  
+About how the world doesn’t break you — you just stop speaking.
 
-Про заботу, в которой нет защиты.  
-Про форму, в которой нет свободы.  
-Про красоту, в которой нет выбора.
+I watched it late,  
+and it stayed with me the whole night —  
+as if someone had laid a soft cloth over the sharp edges inside.
+
+---
+
+*A cinema of stillness.  
+Not absence — but unscreamed feeling.*
+
 
