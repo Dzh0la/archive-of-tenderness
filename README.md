@@ -1,4 +1,4 @@
-<img src="./cover.png" alt="cover" width="300"/>
+<img src="./cover.jpg" alt="cover" width="300"/>
 
 # 📦 Archive for Fima
 
