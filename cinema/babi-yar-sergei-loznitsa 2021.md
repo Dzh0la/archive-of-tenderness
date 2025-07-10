@@ -3,6 +3,7 @@ Babi Yar. Context — Sergei Loznitsa
 You told me to watch it in 2021.
 I did — in the heart of winter, heartbroken.
 That was when I found out you had a girlfriend in New York.
+
 Only a worse pain could wash the one I already carried.
 
 And then — the worse came.
