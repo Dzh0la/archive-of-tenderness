@@ -1,6 +1,6 @@
 # Issue 001 — Soft Reset
 
-**Title:** You changed your country — not yourself.
+**Title:** You changed your country on SoundCloud, not yourself.
 
 **Description:**
 
