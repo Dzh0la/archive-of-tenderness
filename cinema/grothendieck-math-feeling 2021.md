@@ -1,5 +1,6 @@
 Somewhere, you told me about him —
 a mathematician whose logic bloomed like feeling.
+
 Not just numbers, but spaces of silence.
 Not proofs, but poetry in disguise.
 
