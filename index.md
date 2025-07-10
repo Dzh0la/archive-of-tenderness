@@ -1,28 +1,28 @@
----
-layout: default
-title: Archive of Tenderness
----
+# 🌬️ Archive of Tenderness
 
-# Archive of Tenderness
-
-*100 quiet letters you’ll never read.*  
-Written not to be answered — but to be survived.  
-A storm turned into structure.  
-A memory shaped into rhythm.  
-This is for silence, not return.
+100 quiet letters you’ll never read.  
+A memory turned into structure.  
+A silence shaped into rhythm.  
+This is not a goodbye — it’s what stayed.
 
 ---
 
-## 💠 Why
+## ✉️ Letters  
+[`letters/`](./letters) — 100 quiet letters you’ll never read.
 
-Because some tenderness can’t be delivered.  
-Because sometimes we write not to ask — but to keep living.  
-Because silence can still contain form.
+## 🖋️ Poems  
+[`poems/`](./poems) — fragments of rhythm and recovery.
 
-> This is not a message.  
-> It’s a memory — with syntax.
+## 🍿 Cinema Dreams  
+[`cinema-dreams/`](./cinema-dreams) — shared movie memory, real and phantom.
+
+## 📚 Readings  
+[`readings/`](./readings) — what I read that read me back.  
+[`readings-issue/`](./readings-issue) — the unfinished shelf.
+
+## ✏️ Notes  
+[`notes/`](./notes) — memories, glitches, pain, warmth.
 
 ---
 
-If you’re reading this: you don’t need to respond.  
-But I needed a place to put what stayed.
+> “Letter 100: If you find this — you know my answer.”
