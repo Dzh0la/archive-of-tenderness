@@ -12,6 +12,7 @@ War.
 
 Babi Yar was bombed again — not by Nazis this time, but by Russia.
 I packed in three days. Fled Moscow. Left most things behind.
+
 My life, as I knew it, didn’t survive that February.
 
 In the film, the bomb falls in the past.
