@@ -20,6 +20,8 @@ too intimate to name.
 I didn’t need to understand every theorem.
 I just knew:
 some math is soft.
+
 Some men feel.
+
 And some distances are only coordinates
 waiting to be rewritten.
