@@ -16,12 +16,9 @@ Just a breath that wrote itself over four strange, silent years.
 ---
 
 If you’re here, you already know why.  
-There’s no call to action. No apology. No demand.
 
-Just a presence.  
-And maybe: a new breath.
 
-> **Letter 100:** *If you find this — you know my answer.*
+
 
 All these words are mine —
 not for resale, but for recognition.
