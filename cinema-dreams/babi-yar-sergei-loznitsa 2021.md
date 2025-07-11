@@ -20,7 +20,7 @@ In life — it fell right into my present.
 
 I sent you the footage.
 You replied: ужас.
-Just one word. But not silence.
+Just one word. 
 
 It wasn’t just a documentary.
 It was an atomic bomb in my mind.
